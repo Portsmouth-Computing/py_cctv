@@ -171,3 +171,6 @@ $RECYCLE.BIN/
 
 
 # End of https://www.gitignore.io/api/linux,python,windows,visualstudiocode
+
+token.json
+credentials.json
